@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Publish","A hook for publishing Notion events."]],"mod":[["serial",""],["tool","Types representing Notion Tool Hooks."]],"struct":[["EventHooks","Notion hooks related to events."],["HookConfig","Notion hook configuration"],["LazyHookConfig","Lazily loaded Notion hook configuration"],["ToolHooks","Notion hooks for an individual tool"]]});
